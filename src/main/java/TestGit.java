@@ -4,6 +4,7 @@ test1();
 test2();
 test3();
 testEvgen();
+master();
 
     }
     public static void test1(){
@@ -24,5 +25,9 @@ testEvgen();
         System.out.println("new branch for Evgen");
         System.out.println("new branch for Evgen step 2");
         System.out.println("new branch for Evgen step 3");
+    }
+
+    public static void master() {
+        System.out.println("masrer 1");
     }
 }
