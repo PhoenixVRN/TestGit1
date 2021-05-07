@@ -25,4 +25,7 @@ testEvgen();
         System.out.println("new branch for Evgen step 2");
         System.out.println("new branch for Evgen step 3");
     }
+    public static void evgen (){
+        System.out.println("Evgen1");
+    }
 }
