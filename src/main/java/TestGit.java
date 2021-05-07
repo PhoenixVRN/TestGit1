@@ -29,5 +29,6 @@ master();
 
     public static void master() {
         System.out.println("masrer 1");
+        System.out.println("masrer 2");
     }
 }
