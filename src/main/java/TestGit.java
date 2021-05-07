@@ -3,6 +3,7 @@ public class TestGit {
 test1();
 test2();
 test3();
+testEvgen();
 
     }
     public static void test1(){
@@ -14,5 +15,8 @@ test3();
     }
     public static void test3() {
         System.out.println("Test3");
+    }
+    public static void testEvgen() {
+        System.out.println("TestEvgen");
     }
 }
