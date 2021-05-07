@@ -27,5 +27,6 @@ testEvgen();
     }
     public static void evgen (){
         System.out.println("Evgen1");
+        System.out.println("Evgen2");
     }
 }
